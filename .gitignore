@@ -1,0 +1,88 @@
+# .gitignore file created for free with Tower (https://www.git-tower.com/)
+# For suggestions or improvements please contact us using support@git-tower.com
+# Generated on 2026-05-30
+# Includes: unreal_engine
+
+### Universal ###
+# Common files that should be ignored in all projects
+
+# Logs
+*.log
+# Temporary files
+*.tmp
+*~
+
+*.bak
+# Environment files (containing secrets, API keys, credentials)
+.env
+*.env
+.env.*
+
+# Local configuration that shouldn't be shared
+*.local
+
+### Unreal_engine ###
+# Unreal Engine generated files and build artifacts
+
+# Unreal Engine Generated Files
+Binaries/
+Build/
+Debug/
+DerivedDataCache/
+
+Intermediate/
+Saved/
+Content/StarterContent/
+# Visual Studio Files
+.vs/
+
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+
+*.suo
+*.xcodeproj
+*.xcworkspace
+# Unreal Generated Solution Files
+*.sln
+
+*.xcodeproj/
+Makefile
+CMakeLists.txt
+# Cache files
+*.pdb
+
+*.dll.response
+*.modules
+# Crash logs
+Crashes/
+*.log
+
+*.dmp
+# Configuration files
+Config/DefaultEngine.ini
+Config/DefaultGame.ini
+Config/DefaultInput.ini
+
+# Plugin specific
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
+# Platform specific
+
+WindowsNoEditor/
+LinuxNoEditor/
+MacNoEditor/
+# Package files
+*.pak
+
+*.exe
+*.app
+# Asset files to ignore
+*.uasset.bak
+*.umap.bak
+
+*.bak
+Backup*/
