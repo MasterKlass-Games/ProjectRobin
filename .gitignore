@@ -86,3 +86,7 @@ MacNoEditor/
 
 *.bak
 Backup*/
+
+Saved/
+Intermediate/
+DerivedDataCache/
