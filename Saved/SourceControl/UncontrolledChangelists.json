@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ingom/Documents/Unreal Projects/ProjectRobin/Content/BP_GameInstance.uasset",
+				"C:/Users/ingom/Documents/Unreal Projects/ProjectRobin/Content/PlayerVehicle/BP_Robin.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/UI/FrameMaterial.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset",
